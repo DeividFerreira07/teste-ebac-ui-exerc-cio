@@ -1,0 +1,26 @@
+[
+    {
+        "nomeProduto": "Abominable Hoodie",
+        "tamanho": "L",
+        "cor": "Green",
+        "quantidade": 5
+    },
+    {
+        "nomeProduto": "Beaumont Summit Kit",
+        "tamanho": "M",
+        "cor": "Yellow",
+        "quantidade": 8
+    },
+     {
+        "nomeProduto": "Ajax Full-Zip Sweatshirt",
+        "tamanho": "S",
+        "cor": "Red",
+        "quantidade": 10
+    },
+      {
+        "nomeProduto": "Cobalt CoolTech™ Fitness Short",
+        "tamanho": "32",
+        "cor": "Black",
+        "quantidade": 10
+    }
+]
